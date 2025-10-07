@@ -1,7 +1,4 @@
 [submodule "libwebp"]
-	path = external/libwebp
+	path = libwebp
 	url = https://chromium.googlesource.com/webm/libwebp
 	ignore = dirty
-[submodule "external/tp_stubz"]
-	path = external/tp_stubz
-	url = https://github.com/uyjulian/tp_stubz.git
